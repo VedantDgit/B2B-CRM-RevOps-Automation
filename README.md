@@ -1,4 +1,4 @@
-<img width="2870" height="1454" alt="image" src="https://github.com/user-attachments/assets/b4b871cd-745d-4b5b-8e86-b869505f29bb" /># B2B Sales CRM & RevOps Implementation Demo
+# B2B Sales CRM & RevOps Implementation Demo
 
 ## Objective
 A portfolio project demonstrating how CRM data can be structured, analyzed, and turned into business workflows for a B2B sales team.
