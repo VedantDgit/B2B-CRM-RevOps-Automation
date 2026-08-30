@@ -1,0 +1,14 @@
+{
+  "name": "nimblegtm-crm-revops-dashboard",
+  "version": "1.0.0",
+  "description": "Nexora B2B CRM & RevOps Executive Dashboard - Deployed on Vercel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["crm", "revops", "b2b", "dashboard", "vercel", "lead-scoring"],
+  "author": "",
+  "license": "MIT"
+}

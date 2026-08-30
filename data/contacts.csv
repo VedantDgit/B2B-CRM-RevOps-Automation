@@ -1,0 +1,21 @@
+First Name,Last Name,Email,Phone Number,Job Title,Company Name,Lead Source,Lead Status
+Rahul,Sharma,rahul.sharma@techcorp.example,+91 90000 10001,Marketing Manager,TechCorp Solutions,Website,New
+Neha,Singh,neha.singh@techcorp.example,+91 90000 10002,Sales Manager,TechCorp Solutions,LinkedIn,Qualified
+Aarav,Mehta,aarav.mehta@techcorp.example,+91 90000 10003,CTO,TechCorp Solutions,Referral,Contacted
+Kavya,Patil,kavya.patil@techcorp.example,+91 90000 10004,Operations Head,TechCorp Solutions,Webinar,Demo Scheduled
+Priya,Mehta,priya.mehta@datanova.example,+91 90000 10005,Sales Director,DataNova Systems,LinkedIn,Qualified
+Rohan,Verma,rohan.verma@datanova.example,+91 90000 10006,CEO,DataNova Systems,Referral,Proposal Sent
+Ishita,Rao,ishita.rao@datanova.example,+91 90000 10007,Marketing Manager,DataNova Systems,Website,New
+Aditya,Joshi,aditya.joshi@datanova.example,+91 90000 10008,IT Manager,DataNova Systems,Webinar,Contacted
+Arjun,Patel,arjun.patel@brightedge.example,+91 90000 10009,CTO,BrightEdge Labs,Referral,Demo Scheduled
+Ananya,Shah,ananya.shah@brightedge.example,+91 90000 10010,Marketing Head,BrightEdge Labs,Website,Qualified
+Vikram,Desai,vikram.desai@brightedge.example,+91 90000 10011,Business Development Manager,BrightEdge Labs,LinkedIn,Contacted
+Pooja,Kulkarni,pooja.kulkarni@brightedge.example,+91 90000 10012,Product Manager,BrightEdge Labs,Webinar,New
+Sneha,Rao,sneha.rao@cloudsphere.example,+91 90000 10013,Operations Manager,CloudSphere,Webinar,Qualified
+Karan,Joshi,karan.joshi@cloudsphere.example,+91 90000 10014,IT Manager,CloudSphere,LinkedIn,Proposal Sent
+Meera,Nair,meera.nair@cloudsphere.example,+91 90000 10015,Sales Director,CloudSphere,Website,Demo Scheduled
+Ritesh,Gupta,ritesh.gupta@cloudsphere.example,+91 90000 10016,CEO,CloudSphere,Referral,Closed Won
+Aman,Gupta,aman.gupta@finova.example,+91 90000 10017,Product Manager,Finova Technologies,Website,New
+Simran,Kapoor,simran.kapoor@finova.example,+91 90000 10018,Business Manager,Finova Technologies,LinkedIn,Qualified
+Nikhil,Sharma,nikhil.sharma@finova.example,+91 90000 10019,Finance Director,Finova Technologies,Referral,Negotiation
+Diya,Mishra,diya.mishra@finova.example,+91 90000 10020,Marketing Manager,Finova Technologies,Webinar,Contacted
