@@ -1,4 +1,4 @@
-# B2B Sales CRM & RevOps Implementation Demo
+<img width="2870" height="1454" alt="image" src="https://github.com/user-attachments/assets/b4b871cd-745d-4b5b-8e86-b869505f29bb" /># B2B Sales CRM & RevOps Implementation Demo
 
 ## Objective
 A portfolio project demonstrating how CRM data can be structured, analyzed, and turned into business workflows for a B2B sales team.
@@ -21,6 +21,9 @@ Lead → Contacted → Qualified → Demo Scheduled → Proposal Sent → Negoti
 1. Website/LinkedIn leads with relevant decision-maker job titles receive a higher priority score.
 2. New/Qualified high-priority leads are flagged for a sales follow-up task.
 3. Deals in "Proposal Sent" are flagged for proposal follow-up.
+# HubSpot Companies 
+<img width="2870" height="1454" alt="image" src="https://github.com/user-attachments/assets/04fffdd7-cc58-43b0-b490-fcc856cb01b4" />
+
 
 ## Dashboard 
 <img width="2878" height="1298" alt="image" src="https://github.com/user-attachments/assets/294a165c-151c-41e3-9efc-564e93d84cab" />
