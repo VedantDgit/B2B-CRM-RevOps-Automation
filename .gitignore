@@ -1,18 +1,6 @@
-# Vercel & Node
-.vercel
-node_modules
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+.env
 .venv/
-venv/
-ENV/
-
-# System & OS
-.DS_Store
-Thumbs.db
+env/
+.streamlit/secrets.toml
