@@ -84,7 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │   ├── contacts.csv
 │   └── deals.csv
 ├── automation.py     # Python reference implementation of business rules
-└── app.py            # Streamlit reference application (local only)
+└── streamlit_app.py  # Streamlit reference application (local only)
 ```
 
 ---
