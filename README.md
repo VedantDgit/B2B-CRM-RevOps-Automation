@@ -3,6 +3,9 @@
 ## Objective
 A portfolio project demonstrating how CRM data can be structured, analyzed, and turned into business workflows for a B2B sales team.
 
+## Link:
+https://b2b-crm-revops-automation-rvk3yavt4j9rwga2ijmqxx.streamlit.app/
+
 ## CRM model
 - Companies
 - Contacts
@@ -18,6 +21,12 @@ Lead → Contacted → Qualified → Demo Scheduled → Proposal Sent → Negoti
 1. Website/LinkedIn leads with relevant decision-maker job titles receive a higher priority score.
 2. New/Qualified high-priority leads are flagged for a sales follow-up task.
 3. Deals in "Proposal Sent" are flagged for proposal follow-up.
+
+## Dashboard 
+<img width="2878" height="1298" alt="image" src="https://github.com/user-attachments/assets/294a165c-151c-41e3-9efc-564e93d84cab" />
+
+<img width="2878" height="1305" alt="image" src="https://github.com/user-attachments/assets/6a00671f-981d-4a2f-b9a1-b612b43b2117" />
+
 
 ## Dashboard
 The Streamlit dashboard reports:
