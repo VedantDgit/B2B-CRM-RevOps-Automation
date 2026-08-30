@@ -83,6 +83,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │   ├── companies.csv
 │   ├── contacts.csv
 │   └── deals.csv
+├── requirements-dev.txt # Python dependencies for local testing
 ├── automation.py     # Python reference implementation of business rules
 └── streamlit_app.py  # Streamlit reference application (local only)
 ```
